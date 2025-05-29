@@ -1,6 +1,6 @@
 # Anomaly Detection on Modelset
 
-This project focuses on implementing anomaly detection techniques on a custom dataset using machine learning models in a Jupyter Notebook environment.
+This project focuses on implementing anomaly detection using the Isolation Forest algorithm on the Modelset dataset, which includes ECORE and UML data collections. The workflow is demonstrated in a Jupyter Notebook environment, covering data loading, preprocessing, model training, anomaly detection, and evaluation of the results.
 
 ##  Overview
 
