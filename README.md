@@ -19,7 +19,7 @@ The notebook `anomaly-detection-on-modelset.ipynb` demonstrates:
 
 ##  Files
 
-- `anomaly-detection-on-modelset.ipynb`: The main notebook containing code, analysis, and results on kaggle.
+- `anomaly-detection-on-modelset.ipynb`: The main notebook containing code, analysis, and results.
 
 To manually access the data please visit modelset github repository. https://github.com/modelset/modelset-dataset
 
